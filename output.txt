@@ -1,0 +1,464 @@
+2020-06-03 14:34:35.696038
+STARTING SCRAPE AT 0 = INDEX Iowa State University
+
+Type from wiki failed: Sayre School - Wikipedia
+Type from wiki failed: George Mason Patriots - Wikipedia
+Type from wiki failed: Ansonia High School (Connecticut) - Wikipedia
+Type from wiki failed: Sonoran Science Academy - Wikipedia
+Location failed: Sonoran Science Academy
+Type from wiki failed: Shorewood High School (Washington) - Wikipedia
+Type from wiki failed: Harlandale Independent School District - Wikipedia
+Location failed: Harlandale Independent School District
+Type from wiki failed: South Texas College - Wikipedia
+Type from wiki failed: Chávez High School (Delano, California) - Wikipedia
+Type from wiki failed: Middle Creek High School - Wikipedia
+Type from wiki failed: Apex Learning - Wikipedia
+Type from wiki failed: Park Center Senior High School - Wikipedia
+Type from wiki failed: Penn State Shenango - Wikipedia
+Type from wiki failed: Embry–Riddle Aeronautical University - Wikipedia
+Wikipedia failed: South Burlington School District
+Wikipedia failed: Foundation Academy
+Type from wiki failed: Fuquay-Varina High School - Wikipedia
+Type from wiki failed: Chemeketa Community College - Wikipedia
+Type from wiki failed: Centennial High School (Corona, California) - Wikipedia
+Type from wiki failed: Leesville Road High School - Wikipedia
+Type from wiki failed: Jamestown Community College - Wikipedia
+Wikipedia failed: Chatfie
+Type from wiki failed: Lake Michigan College - Wikipedia
+Wikipedia failed: All Saints Episcopal School
+Type from wiki failed: Triangle - Wikipedia
+Location failed: Triangle
+Type from wiki failed: Peoples Academy - Wikipedia
+Location failed: Peoples Academy
+Wikipedia failed: Farmington High School
+Type from wiki failed: Housatonic Community College - Wikipedia
+Type from wiki failed: Halifax Community College - Wikipedia
+Type from wiki failed: Utah Valley Wolverines - Wikipedia
+Type from wiki failed: Indian Land, South Carolina - Wikipedia
+Type from wiki failed: Souhegan High School - Wikipedia
+Type from wiki failed: Rancho Mirage High School - Wikipedia
+Type from wiki failed: Charter school - Wikipedia
+Location failed: Charter school
+Type from wiki failed: Edmond Santa Fe High School - Wikipedia
+Type from wiki failed: Snow College - Wikipedia
+Type from wiki failed: Santa Fe College - Wikipedia
+Type from wiki failed: Edward Waters College - Wikipedia
+Type from wiki failed: La Sierra High School - Wikipedia
+Type from wiki failed: Piedmont Community College - Wikipedia
+Wikipedia failed: Neuse Charter School
+Wikipedia failed: Mineral Wells High School
+Type from wiki failed: Jackson High School - Wikipedia
+Location failed: Jackson High School
+Type from wiki failed: Omaha Mavericks - Wikipedia
+Wikipedia failed: Estes Park High School
+Type from wiki failed: Hagerstown Community College - Wikipedia
+Type from wiki failed: Cicero–North Syracuse High School - Wikipedia
+Location failed: Cicero–North Syracuse High School
+Type from wiki failed: New Hampton School - Wikipedia
+Type from wiki failed: St. Johns River State College - Wikipedia
+Wikipedia failed: APS-ECADEMY
+Wikipedia failed: Anderson High School
+Type from wiki failed: Minnesota State University Moorhead - Wikipedia
+Wikipedia failed: Chester Senior High School
+Type from wiki failed: Lewis (TV series) - Wikipedia
+Location failed: Lewis (TV series)
+Type from wiki failed: Wright State Raiders - Wikipedia
+Type from wiki failed: Metropolitan Community College (Missouri) - Wikipedia
+Location failed: Metropolitan Community College (Missouri)
+Type from wiki failed: Trinity Preparatory School - Wikipedia
+Type from wiki failed: Anne Arundel Community College - Wikipedia
+Type from wiki failed: Little Cypress-Mauriceville Consolidated Independent School District - Wikipedia
+Location failed: Little Cypress-Mauriceville Consolidated Independent School District
+Type from wiki failed: Lansing Community College - Wikipedia
+Type from wiki failed: Paul J. Hagerty High School - Wikipedia
+Type from wiki failed: Union Grove High School - Wikipedia
+Type from wiki failed: Howard-Suamico School District - Wikipedia
+Location failed: Howard-Suamico School District
+Type from wiki failed: Santa Ana College - Wikipedia
+Type from wiki failed: Lakeland Community College - Wikipedia
+Type from wiki failed: Salt Lake Community College - Wikipedia
+Type from wiki failed: Garden Spot High School - Wikipedia
+Type from wiki failed: Windsor High School (California) - Wikipedia
+Type from wiki failed: Hillsborough Community College - Wikipedia
+Type from wiki failed: Oak Ridge High School (El Dorado Hills, California) - Wikipedia
+Type from wiki failed: Wisconsin Lutheran College - Wikipedia
+Type from wiki failed: Alonzo (rapper) - Wikipedia
+Location failed: Alonzo (rapper)
+Type from wiki failed: Springfield Public Schools (Missouri) - Wikipedia
+Location failed: Springfield Public Schools (Missouri)
+Type from wiki failed: Broward College - Wikipedia
+Type from wiki failed: Auburn High School - Wikipedia
+Location failed: Auburn High School
+Type from wiki failed: John Joseph Mitty - Wikipedia
+Location failed: John Joseph Mitty
+Type from wiki failed: Horizon High School - Wikipedia
+Location failed: Horizon High School
+Type from wiki failed: Richland High School - Wikipedia
+Location failed: Richland High School
+Type from wiki failed: Joe E. Newsome High School - Wikipedia
+Type from wiki failed: Pearl River Community College - Wikipedia
+Type from wiki failed: San Francisco University High School - Wikipedia
+Type from wiki failed: Southern Lehigh School District - Wikipedia
+Location failed: Southern Lehigh School District
+Wikipedia failed: Hartford Union High School
+Type from wiki failed: Pasadena, California - Wikipedia
+Type from wiki failed: Episcopal School of Acadiana - Wikipedia
+Type from wiki failed: Waukee High School - Wikipedia
+Wikipedia failed: Dept of Statistics University of South Carolina
+Type from wiki failed: The Classical Academy High School (California) - Wikipedia
+Type from wiki failed: Shasta College - Wikipedia
+Type from wiki failed: Quince Orchard High School - Wikipedia
+Type from wiki failed: Rocky Hill School - Wikipedia
+Type from wiki failed: Nordonia High School - Wikipedia
+Location failed: Nordonia High School
+Type from wiki failed: Eagle Mountain-Saginaw Independent School District - Wikipedia
+Type from wiki failed: University of Wisconsin–Stevens Point - Wikipedia
+Type from wiki failed: Lehigh Carbon Community College - Wikipedia
+Type from wiki failed: Humboldt High School - Wikipedia
+Location failed: Humboldt High School
+Wikipedia failed: Kodiak High School
+Wikipedia failed: Career Center
+Wikipedia failed: Wellspring Preparatory High School
+Type from wiki failed: Rio Salado College - Wikipedia
+Type from wiki failed: Staley High School - Wikipedia
+Type from wiki failed: Catherine of Alexandria - Wikipedia
+Location failed: Catherine of Alexandria
+Type from wiki failed: Lovell High School - Wikipedia
+Location failed: Lovell High School
+Type from wiki failed: Austin Peay Governors - Wikipedia
+Type from wiki failed: Palm Harbor University High School - Wikipedia
+Wikipedia failed: Badger High School
+Type from wiki failed: Eastern Lebanon County High School - Wikipedia
+Type from wiki failed: John W. North High School - Wikipedia
+Type from wiki failed: Aurora Christian Schools - Wikipedia
+Location failed: Aurora Christian Schools
+Type from wiki failed: Stuart W. Cramer - Wikipedia
+Location failed: Stuart W. Cramer
+Wikipedia failed: Woodmont High School
+Wikipedia failed: Boston Community Leadership Academy
+Type from wiki failed: Elkhorn, Omaha, Nebraska - Wikipedia
+Type from wiki failed: Longwood Central School District - Wikipedia
+Type from wiki failed: College of DuPage - Wikipedia
+Type from wiki failed: Fremont Christian School - Wikipedia
+Wikipedia failed: "Big Spring School District, Big Spring High School"
+Type from wiki failed: Michigan State University academics - Wikipedia
+Location failed: Michigan State University academics
+Type from wiki failed: National Math and Science Initiative - Wikipedia
+Location failed: National Math and Science Initiative
+Type from wiki failed: Helena College University of Montana - Wikipedia
+Wikipedia failed: BRADENTON CHRISTIAN SCHOOL
+Type from wiki failed: Luella High School - Wikipedia
+Type from wiki failed: Suffield Academy - Wikipedia
+Type from wiki failed: Indian Trail - Wikipedia
+Location failed: Indian Trail
+Type from wiki failed: IDEA Public Schools - Wikipedia
+Location failed: IDEA Public Schools
+Type from wiki failed: Holy Trinity Episcopal Academy - Wikipedia
+Type from wiki failed: Notre Dame College - Wikipedia
+Type from wiki failed: Shepherd Hill Regional High School - Wikipedia
+Type from wiki failed: Academic Magnet High School - Wikipedia
+Type from wiki failed: Eastside High School - Wikipedia
+Location failed: Eastside High School
+Type from wiki failed: Gibraltar School District - Wikipedia
+Location failed: Gibraltar School District
+Type from wiki failed: Providence School - Wikipedia
+Type from wiki failed: Southwest Minnesota State University - Wikipedia
+Wikipedia failed: "Pocatello School District 25, Century High School"
+Type from wiki failed: San Antonio Independent School District - Wikipedia
+Location failed: San Antonio Independent School District
+Type from wiki failed: Randolph School - Wikipedia
+Type from wiki failed: Flushing Community Schools - Wikipedia
+Location failed: Flushing Community Schools
+Type from wiki failed: Pittsburg State University - Wikipedia
+Type from wiki failed: Jackson-Wilson High School - Wikipedia
+Location failed: Jackson-Wilson High School
+Wikipedia failed: Creekside High School
+Type from wiki failed: Parkway West High School - Wikipedia
+Location failed: Parkway West High School
+Type from wiki failed: whitefield academy wikipedia - Google Search
+Wikipedia failed: WHITEFIELD ACADEMY
+Type from wiki failed: Troy University - Wikipedia
+Type from wiki failed: Mesalands Community College - Wikipedia
+Type from wiki failed: Carver High School (Philadelphia, Pennsylvania) - Wikipedia
+Location failed: Carver High School (Philadelphia, Pennsylvania)
+Type from wiki failed: The Governor (The Walking Dead) - Wikipedia
+Location failed: The Governor (The Walking Dead)
+Wikipedia failed: Grand Ledge High School
+Type from wiki failed: Rio Rancho High School - Wikipedia
+Type from wiki failed: Johnson County Community College - Wikipedia
+Type from wiki failed: Morris Hills High School - Wikipedia
+Type from wiki failed: Severance package - Wikipedia
+Location failed: Severance package
+Type from wiki failed: Valparaiso Crusaders - Wikipedia
+Type from wiki failed: Chesapeake High School (Baltimore County) - Wikipedia
+
+SEARCH BLOCKED AT MONTGOMERY COLLEGE = INDEX 448
+
+Closing driver at 2020-06-03 14:51:32.580698
+
+2020-06-03 15:34:45.330614
+STARTING SCRAPE AT MONTGOMERY COLLEGE = INDEX 448
+
+Type from wiki failed: Montgomery College - Wikipedia
+Type from wiki failed: King Philip Regional High School - Wikipedia
+Type from wiki failed: Northfield Township High School District 225 - Wikipedia
+Location failed: Northfield Township High School District 225
+Type from wiki failed: Cross Keys High School - Wikipedia
+Location failed: Cross Keys High School
+Type from wiki failed: Holy Family College (Wisconsin) - Wikipedia
+Type from wiki failed: Piedmont Virginia Community College - Wikipedia
+Type from wiki failed: Gogebic Community College - Wikipedia
+Type from wiki failed: Wayne State College - Wikipedia
+Type from wiki failed: Akron Zips - Wikipedia
+Type from wiki failed: Palm Beach State College - Wikipedia
+Type from wiki failed: Hanover High School - Wikipedia
+Location failed: Hanover High School
+Wikipedia failed: Not Your Ordinary School
+Wikipedia failed: MASS INSIGHT EDUCATION
+Type from wiki failed: Eau Claire High School - Wikipedia
+Location failed: Eau Claire High School
+Type from wiki failed: Centennial High School (Corona, California) - Wikipedia
+Type from wiki failed: Robert E. Lee High School - Wikipedia
+Location failed: Robert E. Lee High School
+Type from wiki failed: Buena Vista University - Wikipedia
+Wikipedia failed: Floyd County College and Career Academy
+Type from wiki failed: Indiana State Sycamores - Wikipedia
+Wikipedia failed: NORTH CAROINA VIRTUAL ACADEMY
+Wikipedia failed: "DISCOVERY HIGH SCHOOL, POLK COUNTY, FL"
+Wikipedia failed: Elkhorn Area High School
+Type from wiki failed: Wade Hampton High School - Wikipedia
+Location failed: Wade Hampton High School
+Type from wiki failed: Discovery High School (Georgia) - Wikipedia
+Location failed: Discovery High School (Georgia)
+Type from wiki failed: Massacre of the Innocents - Wikipedia
+Location failed: Massacre of the Innocents
+Type from wiki failed: Van Nuys High School - Wikipedia
+Type from wiki failed: Schertz-Cibolo-Universal City Independent School District - Wikipedia
+Location failed: Schertz-Cibolo-Universal City Independent School District
+Type from wiki failed: Bridgman High School - Wikipedia
+Location failed: Bridgman High School
+Type from wiki failed: Templeton High School - Wikipedia
+Type from wiki failed: Townsend Harris - Wikipedia
+Location failed: Townsend Harris
+Type from wiki failed: Union 32 High School - Wikipedia
+Type from wiki failed: Community College of Allegheny County - Wikipedia
+Wikipedia failed: KIPP Generations Collegiate
+Wikipedia failed: Westwood Public School District
+Type from wiki failed: Northwest Career and Technical Academy - Wikipedia
+Type from wiki failed: Woodward Academy - Wikipedia
+Type from wiki failed: United States Naval Academy - Wikipedia
+Type from wiki failed: Reinhardt Eagles - Wikipedia
+Wikipedia failed: Watertown High School
+Type from wiki failed: List of high schools in Oregon - Wikipedia
+Location failed: List of high schools in Oregon
+Type from wiki failed: Anne Arundel County Public Schools - Wikipedia
+Location failed: Anne Arundel County Public Schools
+Type from wiki failed: York College, City University of New York - Wikipedia
+Type from wiki failed: Stephen F. Austin State University - Wikipedia
+Type from wiki failed: Lone Star College–CyFair - Wikipedia
+Type from wiki failed: Mustang High School - Wikipedia
+Type from wiki failed: Shelton State Community College - Wikipedia
+Type from wiki failed: Forest Hills Eastern High School - Wikipedia
+Type from wiki failed: Adelanto High School - Wikipedia
+Location failed: Adelanto High School
+Type from wiki failed: Wake Technical Community College - Wikipedia
+Type from wiki failed: Florida SouthWestern State College - Wikipedia
+
+SEARCH BLOCKED AT SEMINOLE STATE COLLEGE = INDEX 593
+
+Closing driver at 2020-06-03 15:40:40.531088
+2020-06-03 19:16:47.603420
+STARTING SCRAPE SEMINOLE STATE COLLEGE = INDEX 593
+
+
+SEARCH BLOCKED AT SEMINOLE STATE COLLEGE = INDEX 593
+
+Closing driver 2020-06-03 19:16:53.520521
+2020-06-03 21:21:16.371400
+STARTING SCRAPE SEMINOLE STATE COLLEGE = INDEX 593
+
+
+SEARCH BLOCKED AT SEMINOLE STATE COLLEGE = INDEX 593
+
+Closing driver 2020-06-03 21:21:22.930336
+2020-06-03 21:23:41.763691
+STARTING SCRAPE SEMINOLE STATE COLLEGE = INDEX 593
+
+2020-06-03 21:31:52.375890
+STARTING SCRAPE SEMINOLE STATE COLLEGE = INDEX 593
+
+Type from wiki failed: Seminole State College of Florida - Wikipedia
+Type from wiki failed: D.C. Everest School District - Wikipedia
+Type from wiki failed: South Whidbey School District - Wikipedia
+Location failed: South Whidbey School District
+Type from wiki failed: Vista Murrieta High School - Wikipedia
+Type from wiki failed: Kettering College - Wikipedia
+Type from wiki failed: California High School (San Ramon, California) - Wikipedia
+Type from wiki failed: Eastern Arizona College - Wikipedia
+Type from wiki failed: John Bapst Memorial High School - Wikipedia
+Type from wiki failed: Woodberry Forest School - Wikipedia
+Wikipedia failed: KIPP DuBois Collegiate Academy
+Type from wiki failed: Spartanburg Community College - Wikipedia
+Wikipedia failed: HUNTINGTON PARK INSTITUTE OF APPLIED MEDICINE
+Type from wiki failed: University of West Georgia - Wikipedia
+Type from wiki failed: Cleveland Community College - Wikipedia
+Type from wiki failed: Ardrey Kell High School - Wikipedia
+Type from wiki failed: Stockbridge High School - Wikipedia
+Type from wiki failed: Franklin High School (Los Angeles) - Wikipedia
+
+SEARCH BLOCKED AT Arab High School = INDEX 646
+
+Closing driver 2020-06-03 21:33:30.178703
+2020-06-03 21:40:22.157444
+STARTING SCRAPE Arab High School = INDEX 646
+
+Type from wiki failed: Arab City Schools - Wikipedia
+Location failed: Arab City Schools
+Type from wiki failed: Northwestern State University - Wikipedia
+Type from wiki failed: Valley View High School (Moreno Valley, California) - Wikipedia
+Location failed: Valley View High School (Moreno Valley, California)
+Type from wiki failed: Borough of Manhattan Community College - Wikipedia
+Type from wiki failed: Pine Crest School - Wikipedia
+Wikipedia failed: IDEA Public Schools--Mission CP
+Type from wiki failed: Del Mar College - Wikipedia
+Type from wiki failed: Oral Roberts - Wikipedia
+Location failed: Oral Roberts
+Wikipedia failed: ORANGE COUNTY VIRTUAL FRANCHISE
+Type from wiki failed: Reading Area Community College - Wikipedia
+Type from wiki failed: Boys' Latin School of Maryland - Wikipedia
+Type from wiki failed: Eastern Florida State College - Wikipedia
+Type from wiki failed: William Paterson (judge) - Wikipedia
+Location failed: William Paterson (judge)
+Wikipedia failed: UTTIA PALESTINE
+Wikipedia failed: Select One
+Type from wiki failed: John D. Rockefeller - Wikipedia
+Location failed: John D. Rockefeller
+Type from wiki failed: Tulsa Community College - Wikipedia
+Type from wiki failed: Collegiate institute - Wikipedia
+Location failed: Collegiate institute
+Type from wiki failed: Middletown High School South - Wikipedia
+Type from wiki failed: University of Cincinnati Clermont College - Wikipedia
+Type from wiki failed: Maplewood Richmond Heights High School - Wikipedia
+Type from wiki failed: Brentwood School, Essex - Wikipedia
+Type from wiki failed: Charles E. Jordan High School - Wikipedia
+Wikipedia failed: Sultana High School
+Wikipedia failed: SPOKANE VALLEY TECH
+Type from wiki failed: Ithaca City School District - Wikipedia
+Location failed: Ithaca City School District
+Type from wiki failed: Midlothian Heritage High School - Wikipedia
+Location failed: Midlothian Heritage High School
+Wikipedia failed: GLOBAL IMPACT STEM ACADEMY
+Type from wiki failed: Countryside High School - Wikipedia
+Type from wiki failed: American River College - Wikipedia
+Type from wiki failed: College of the Canyons - Wikipedia
+Type from wiki failed: Moorpark College - Wikipedia
+Type from wiki failed: J. Sargeant Reynolds Community College - Wikipedia
+Wikipedia failed: roanoke county schools
+Type from wiki failed: North Carolina Virtual Public School - Wikipedia
+Location failed: North Carolina Virtual Public School
+Type from wiki failed: Hendrick Hudson - Wikipedia
+Location failed: Hendrick Hudson
+Type from wiki failed: Valley Christian High School (San Jose, California) - Wikipedia
+Wikipedia failed: Harmony School of Advancement
+Type from wiki failed: Madison, Wisconsin - Wikipedia
+Type from wiki failed: Wynne High School - Wikipedia
+Type from wiki failed: Columbus North High School - Wikipedia
+Type from wiki failed: Plantation High School - Wikipedia
+Type from wiki failed: Baker High School (Georgia) - Wikipedia
+Type from wiki failed: Rich Township High School District 227 - Wikipedia
+Location failed: Rich Township High School District 227
+Type from wiki failed: Decorah High School - Wikipedia
+Location failed: Decorah High School
+Wikipedia failed: Copley-Fairlawn City Schools
+Type from wiki failed: Kalamazoo Valley Community College - Wikipedia
+Type from wiki failed: Lake Norman High School - Wikipedia
+Wikipedia failed: Randolph Eastern School Corporation
+Type from wiki failed: Lipscomb Academy - Wikipedia
+Type from wiki failed: Florida State College at Jacksonville - Wikipedia
+Type from wiki failed: Berry College - Wikipedia
+Type from wiki failed: Northwest Vista College - Wikipedia
+Type from wiki failed: Shattuck-Saint Mary's - Wikipedia
+Type from wiki failed: New College of Florida - Wikipedia
+Type from wiki failed: West Essex High School - Wikipedia
+Type from wiki failed: Valencia College - Wikipedia
+Type from wiki failed: Lower Merion School District - Wikipedia
+Location failed: Lower Merion School District
+Type from wiki failed: The Catalyst Schools - Wikipedia
+Location failed: The Catalyst Schools
+Type from wiki failed: King's College (Pennsylvania) - Wikipedia
+Type from wiki failed: Ben Lippen School - Wikipedia
+Location failed: Ben Lippen School
+Wikipedia failed: CURRENTLY NOT EMPOLYED
+Type from wiki failed: Nova High School (Redding, California) - Wikipedia
+Type from wiki failed: Tempe Union High School District - Wikipedia
+Type from wiki failed: Cooper High School - Wikipedia
+Location failed: Cooper High School
+Type from wiki failed: Loyola Academy - Wikipedia
+Wikipedia failed: UNIVERSITY OF VIRGINIA SFS
+Type from wiki failed: St. Johns River State College - Wikipedia
+Wikipedia failed: SAINT PAUL CONSERVATORY FOR PERFORMING ARTISTS
+Type from wiki failed: McCluer North High School - Wikipedia
+Type from wiki failed: Waynesville School District - Wikipedia
+Location failed: Waynesville School District
+Wikipedia failed: CHATTANOOGA GIRLS LEADERSHIP ACADEMY
+Type from wiki failed: South Mecklenburg High School - Wikipedia
+Wikipedia failed: Richlands High School
+Type from wiki failed: West Virginia State Yellow Jackets - Wikipedia
+Type from wiki failed: Northampton Community College - Wikipedia
+Type from wiki failed: Delta Air Lines - Wikipedia
+Location failed: Delta Air Lines
+Wikipedia failed: Great Northern University
+Type from wiki failed: Indian River State College - Wikipedia
+Type from wiki failed: Lisle Community Unit School District 202 - Wikipedia
+Location failed: Lisle Community Unit School District 202
+Wikipedia failed: NORTHWESTERN CTD
+Type from wiki failed: Western Reserve Academy - Wikipedia
+Type from wiki failed: Plano Independent School District - Wikipedia
+Wikipedia failed: Harmony School of Innovation-Katy
+Type from wiki failed: Morgan Park Academy - Wikipedia
+Type from wiki failed: Arcadia University - Wikipedia
+Type from wiki failed: Episcopal Academy - Wikipedia
+Type from wiki failed: Collin College - Wikipedia
+Type from wiki failed: Houston Christian High School - Wikipedia
+Type from wiki failed: Gonzaga College High School - Wikipedia
+Type from wiki failed: Delaware State University - Wikipedia
+Wikipedia failed: ST. JOSEPHS CATHOLIC SCHOOL
+Type from wiki failed: Mt. Hood Community College - Wikipedia
+Type from wiki failed: Cascade High School - Wikipedia
+Location failed: Cascade High School
+Type from wiki failed: Arkansas State University-Beebe - Wikipedia
+Type from wiki failed: Hudson City School District (Ohio) - Wikipedia
+Location failed: Hudson City School District (Ohio)
+Type from wiki failed: University of Alaska Anchorage - Wikipedia
+Type from wiki failed: Charleston Southern University - Wikipedia
+Type from wiki failed: Montana State Bobcats - Wikipedia
+Type from wiki failed: University of Tampa - Wikipedia
+Type from wiki failed: Stillwater Area High School - Wikipedia
+Type from wiki failed: Jay M. Robinson High School - Wikipedia
+Type from wiki failed: Grand Blanc High School - Wikipedia
+Type from wiki failed: Delaware County Christian School - Wikipedia
+Type from wiki failed: Winona State University - Wikipedia
+Type from wiki failed: Concordia University System - Wikipedia
+Location failed: Concordia University System
+Type from wiki failed: San Dimas High School - Wikipedia
+Type from wiki failed: Morehead State University - Wikipedia
+Wikipedia failed: North High School
+Type from wiki failed: J. Sterling Morton High School West - Wikipedia
+Type from wiki failed: James Monroe High School (California) - Wikipedia
+Wikipedia failed: Mulvane High School
+Type from wiki failed: Weber State University - Wikipedia
+Type from wiki failed: Laurens District 55 High School - Wikipedia
+Type from wiki failed: Piedmont Virginia Community College - Wikipedia
+Type from wiki failed: Saint Stephen - Wikipedia
+Location failed: Saint Stephen
+Type from wiki failed: Montgomery College - Wikipedia
+Wikipedia failed: REDDING CHRISTIAN SCHOOL
+Type from wiki failed: Emsley A. Laney High School - Wikipedia
+Type from wiki failed: Summit High School - Wikipedia
+Location failed: Summit High School
+Type from wiki failed: Dublin School - Wikipedia
+Wikipedia failed: ONSLOW EARLY COLLEGE
+Type from wiki failed: University of Wisconsin–Stevens Point - Wikipedia
+Type from wiki failed: Sherman High School (Seth, West Virginia) - Wikipedia
+Location failed: Sherman High School (Seth, West Virginia)
+Closing driver 2020-06-03 21:54:54.810398

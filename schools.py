@@ -7,53 +7,72 @@ Created on Sun May 31 16:54:20 2020
 1. Import libraries
     - os
     - pandas
-    - selenium
+    - selenium webdriver
 2. Set up dataframes
     1. import schools from file
-    2. add and name columns (School, Type, Location)
+    2. columns (School, Type, Location)
 3. Make searches
     1. For each row:
-        1. google search for school
-        2. navigate to wikipedia page
-        3. return grade level/type, location
-        4. store values in proper columns
+        1. create search term from school name
+        2. google search for school
+            1. If caught by captcha then save index number and quit
+        3. navigate to wikipedia page
+            1. Find school type (High School or University)
+            2. Find location
+        4. format and store type and location
 4. Export data
-    1. standardize values
-    2. export to csv file
+    1. close webdriver and output file
+    2. export updated school list to csv file
 """
 
 #import libraries
-import os
 import pandas as pd
 from selenium import webdriver
 
-#set up dataframes
-x = 50
-schools = pd.read_csv(os.getcwd()+'\schools.csv', names=['School', 'Type', 'Location'])
-randschools = schools.sample(n=x).reset_index(drop=True)
-print(randschools.School)
-f = open('output.txt', 'w')
+#set up dataframe
+try: schools = pd.read_csv('updatedschools.csv')
+except: schools = pd.read_csv('schools.csv', names=['School', 'Type', 'Location'])
 
+try:
+    schools.drop(columns=['index'], inplace=True)
+    schools.drop(columns=['level_0'], inplace=True)
+except: pass
+
+schools.drop_duplicates(inplace=True)
+schools.reset_index(inplace=True)
+
+print(schools.head())
+print(len(schools))
+f = open('output.txt', 'a')
+
+#start index
+start = 646
+print(str(pd.datetime.now())+"\nSTARTING SCRAPE {} = INDEX {}\n".format(schools.School[start],start), file=f)
 
 #make searches
 exec_path = "C:\\WebDriver\\bin\\chromedriver.exe"
 chrome = webdriver.Chrome(executable_path=exec_path)
 
-for i in range(len(randschools)):
+for i in range(start, len(schools)):
     # create search query
-    school = randschools.School[i]
+    school = schools.School[i]
     school = school.replace(' ', '+')
     
     #navigate to google search
     chrome.get("https://www.google.com/search?q=" + school)
     
+    #handle being sent to captcha
+    try: chrome.find_element_by_id('result-stats')
+    except:
+        try: chrome.find_element_by_class_name('hide-focus-ring')
+        except:
+            print('\nSEARCH BLOCKED AT {} = INDEX {}\n'.format(schools.School[i],i), file=f)
+            break
+    
     #set variables
     schooltype = ""
     switch = 0
     location = ''
-    """city = ''
-    state = ''
-    country = ''"""
         
     try: #select wikipedia link
         
@@ -69,7 +88,7 @@ for i in range(len(randschools)):
             try:
                 chrome.find_element_by_xpath('//a[text()="Undergraduates"]')
                 switch = 2
-            except: print("Failed to find type from "+chrome.title, file=f)
+            except: print("Type from wiki failed: "+chrome.title, file=f)
     
         #handle location
         
@@ -77,22 +96,23 @@ for i in range(len(randschools)):
             try: location = chrome.find_element_by_xpath('//tr[@class="adr"]').text
             except: location = chrome.find_element_by_xpath('//td[@class="adr"]').text
         
-        except: print('Failed to identify location for {}'.format(chrome.find_element_by_class_name('firstHeading').text), file=f)
+        except: print('Location failed: {}'.format(chrome.find_element_by_class_name('firstHeading').text), file=f)
 
-    except: print(":( "+chrome.title, file=f)
+    except: print("Wikipedia failed: "+schools.School[i], file=f)
     
+    #properly type school based on switch value and names
     if 'high' in school.lower() or switch == 1: schooltype = 'High School'
     elif ('university' in school.lower() or 'college' in school.lower()) or switch ==2: schooltype = 'University'
-    randschools.Type[i] = schooltype
-    #randschools.Location[i] = '{}, {}, {}'.format(city, state, country)
+    schools.Type[i] = schooltype
+    
+    #set location
     location = location.replace('\n', ', ')
-    randschools.Location[i] = location
+    schools.Location[i] = location
 
-print(randschools.Type.head())    
-print(randschools.Location.head())
-randschools.to_csv('randschools.csv')
+#quit driver
+print("Closing driver "+str(pd.datetime.now()), file=f)
+chrome.quit()
 f.close()
 
-#driver.quit()
-    
 #export data
+schools.to_csv('updatedschools.csv', index=False)
