@@ -5,7 +5,6 @@ Created on Sun May 31 16:54:20 2020
 @author: Kaitlin
 
 1. Import libraries
-    - os
     - pandas
     - selenium webdriver
 2. Set up dataframes
@@ -46,7 +45,7 @@ print(len(schools))
 f = open('output.txt', 'a')
 
 #start index
-start = 646
+start = 0
 print(str(pd.datetime.now())+"\nSTARTING SCRAPE {} = INDEX {}\n".format(schools.School[start],start), file=f)
 
 #make searches
